@@ -1,5 +1,4 @@
 # Simple_Human_and_Object_Detection_System
-# Human and Object Detection System
 
 A simple real-time Human and Object Detection System built using Python, OpenCV, and YOLOv8.
 
